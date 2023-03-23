@@ -1,0 +1,26 @@
+.updateall {
+    background-color: silver;
+    padding: 10px;
+    box-shadow: 0 2px 7px 0 rgb(94 94 94 / 10%);
+    margin-top: 100px;
+    max-width: 500px;
+}
+
+.showModal {
+    display: flex;
+    justify-content: center;
+}
+
+.showModal-container > div {
+    background-color:#ECFDF5;
+    margin: 5px;
+    padding: 10px;
+    font-size: 15px;
+    max-width: 100%;
+  }
+
+  .showModal-container:hover > div{
+    background: #f1f1f1 ;
+    margin: 7px;
+    font-size: 15px;
+}

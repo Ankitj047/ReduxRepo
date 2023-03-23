@@ -1,0 +1,108 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Satheesh",
+      "email": "Sat@mail.com",
+      "adderss": "South street"
+    },
+    {
+      "id": 2,
+      "name": "John",
+      "email": "john@mail.com",
+      "adderss": "North street"
+    },
+    {
+      "id": 3,
+      "name": "Robert",
+      "email": "robert@mail.com",
+      "adderss": "East street"
+    },
+    {
+      "id": 4,
+      "name": "Mani",
+      "email": "mani@mail.com",
+      "adderss": "West street"
+    }
+  ],
+  "todo": [
+    {
+      "task": "Brush",
+      "id": 1
+    },
+    {
+      "id": 3,
+      "task": "Bath"
+    },
+    {
+      "task": "Milk",
+      "id": 5
+    },
+    {
+      "task": "Bath",
+      "id": 6
+    },
+    {
+      "task": "Task",
+      "id": 7
+    },
+    {
+      "task": "Learn",
+      "id": 8
+    },
+    {
+      "task": "Eat",
+      "id": 9
+    },
+    {
+      "task": "Drink",
+      "id": 10
+    },
+    {
+      "id": 11
+    }
+  ],
+  "HealthIns": [
+    {
+      "normal": [
+        {
+          "id": 1,
+          "disease": "normal1",
+          "ischeck": "false",
+          "checkvlaue": {
+            "Yes": "false",
+            "No": "false"
+          }
+        },
+        {
+          "id": 2,
+          "disease": "normal2",
+          "ischeck": "false",
+          "checkvlaue": {
+            "Yes": "false",
+            "NO": "false"
+          }
+        },
+        {
+          "id": 3,
+          "disease": "normal3",
+          "ischeck": "false",
+          "checkvlaue": {
+            "Yes": "false",
+            "NO": "false"
+          }
+        }
+      ],
+      "Intermidate": {
+        "Intermidate1": "",
+        "Intermidate2": "",
+        "Intermidate3": ""
+      },
+      "Extreme": {
+        "Extreme1": "",
+        "Extreme2": "",
+        "Extreme3": ""
+      }
+    }
+  ]
+}
